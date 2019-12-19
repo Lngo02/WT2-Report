@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Linda Ngo WT2 Report',
+    title: 'Linda Ngo - Designing & Building Solutions',
   },
   plugins: ['gatsby-plugin-react-helmet'],
 }
